@@ -1,4 +1,10 @@
 # COMP-6651-Project
+## Authors
+- [Meet Patel](https://github.com/meetpatel267)
+- Sakshi Patel
+- Shubham Patel
+- [Vicky Patel](https://github.com/vicky911)
+- [Virag Vora](https://github.com/viragvora)
 
 Report: https://drive.google.com/file/d/1mRZ15uuLoWemHfqadNQjjkYZfUXzPplR/view <br>
 
